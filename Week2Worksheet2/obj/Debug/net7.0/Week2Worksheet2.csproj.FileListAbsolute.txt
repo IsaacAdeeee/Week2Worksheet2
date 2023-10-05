@@ -1,0 +1,15 @@
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\bin\Debug\net7.0\Week2Worksheet2.exe
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\bin\Debug\net7.0\Week2Worksheet2.deps.json
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\bin\Debug\net7.0\Week2Worksheet2.runtimeconfig.json
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\bin\Debug\net7.0\Week2Worksheet2.dll
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\bin\Debug\net7.0\Week2Worksheet2.pdb
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.csproj.AssemblyReference.cache
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.AssemblyInfoInputs.cache
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.AssemblyInfo.cs
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.csproj.CoreCompileInputs.cache
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.dll
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\refint\Week2Worksheet2.dll
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.pdb
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\Week2Worksheet2.genruntimeconfig.cache
+C:\Users\c3072624\source\repos\Week2Worksheet2\Week2Worksheet2\obj\Debug\net7.0\ref\Week2Worksheet2.dll
